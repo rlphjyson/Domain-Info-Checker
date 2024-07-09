@@ -82,7 +82,7 @@ const SearchContainer: React.FC = () => {
         <div className='flex flex-col gap-10'>
 
             <SearchField onSearch={handleSearch} />
-
+            {/* Add toggle button to switch views between Domain Info Table and Contact Info Table */}
             {domainInfo && contactInfo && (
                 <button className='btn btn-primary w-40 ' onClick={handleToggleTable}>
                     {showDomainTable ? 'Show Contact Info' : 'Show Domain Info'}
