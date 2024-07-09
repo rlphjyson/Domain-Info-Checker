@@ -29,7 +29,7 @@ Before running the application, ensure you have the following installed on your 
 
 ### Configuration 
 
-1. Copy the .env file to the root of the project (domain-info)
+1. Copy the .env.local file to the root of the project (domain-info)
 
 
 ### Running the App
@@ -46,5 +46,5 @@ To serve the production build:
 
 
 ### Additional Notes
-  Make sure the .env file is included in the root of the project folder. It's crucial for configuring environment variables used in the application.
+  Make sure the .env.local file is included in the root of the project folder. It's crucial for configuring environment variables used in the application.
 
