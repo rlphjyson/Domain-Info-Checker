@@ -19,7 +19,7 @@ Before running the application, ensure you have the following installed on your 
    git clone https://github.com/rlphjyson/Domain-Info-Checker.git
    cd Domain-Info-Checker
 
-2. On the terminal go to the project root directory
+2. On the terminal, navigate to the project root directory
    ```bash
    cd domain-info
 
@@ -29,7 +29,7 @@ Before running the application, ensure you have the following installed on your 
 
 ### Configuration 
 
-1. Copy the .env.local file to the root of the project (domain-info)
+1. Copy the .env.local file to the root of the project (Domain-Info-Checker/domain-info)
 
 
 ### Running the App
