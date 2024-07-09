@@ -20,4 +20,5 @@ Before running the application, ensure you have the following installed on your 
    cd <repository-name>
 
 2. Install dependencies using npm:
-   ```npm install
+   ```
+   npm install
