@@ -20,6 +20,7 @@ Before running the application, ensure you have the following installed on your 
    cd Domain-Info-Checker
 
 2. On the terminal, navigate to the project root directory
+
    ```bash
    cd domain-info
 
