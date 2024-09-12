@@ -47,5 +47,5 @@ To serve the production build:
 
 
 ### Additional Notes
-  Make sure the .env.local file is included in the root of the project folder. It's crucial for configuring environment variables used in the application.
+  Make sure the .env.local file is included in the root of the project folder. It is crucial for configuring environment variables used in the application. 
 
